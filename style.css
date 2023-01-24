@@ -73,6 +73,7 @@ header .navegation li a {
   margin-bottom: 10px;
   line-height: 2.5em;
   font-weight: 700;
+  text-transform: uppercase;
 }
 .container .text h2 spam {
   font-size: 3.5em;
@@ -80,6 +81,7 @@ header .navegation li a {
 }
 .container .text p {
   color: #fff;
+  text-transform: uppercase;
 }
 .container .text a {
   display: inline-block;
